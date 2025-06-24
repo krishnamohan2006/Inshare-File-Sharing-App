@@ -2,9 +2,6 @@
 
 A simple and secure file-sharing web application built with the MERN stack. Upload and share files with others via unique links — no login required.
 
-![Banner](https://img.shields.io/github/license/krishnamohan2006/Inshare-File-Sharing-App)
-![GitHub last commit](https://img.shields.io/github/last-commit/krishnamohan2006/Inshare-File-Sharing-App)
-
 ---
 
 ## 🚀 Features
